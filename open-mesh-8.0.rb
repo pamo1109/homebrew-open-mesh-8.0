@@ -1,7 +1,7 @@
 class OpenMesh80 < Formula
   desc "Generic data structure to represent and manipulate polygonal meshes"
   homepage "https://openmesh.org/"
-  url "https://www.graphics.rwth-aachen.de/media/openmesh_static/Releases/8.0/OpenMesh-8.0.tar.bz2"
+  url "https://www.openmesh.org/media/Releases/7.1/OpenMesh-7.1.tar.bz2"
   sha256 "9bc43a3201ba27ed63de66c4c09e23746272882c37a3451e71f0cf956f9be076"
   head "https://www.graphics.rwth-aachen.de:9000/OpenMesh/OpenMesh.git"
 
