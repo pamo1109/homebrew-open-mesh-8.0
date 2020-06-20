@@ -1,4 +1,4 @@
-class OpenMesh < Formula
+class OpenMesh80 < Formula
   desc "Generic data structure to represent and manipulate polygonal meshes"
   homepage "https://openmesh.org/"
   url "https://www.openmesh.org/media/Releases/8.0/OpenMesh-8.0.tar.bz2"
